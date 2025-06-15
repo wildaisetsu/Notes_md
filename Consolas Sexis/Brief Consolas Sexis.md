@@ -4,11 +4,11 @@
 
 \## 1. Información General
 
-\- **Nombre artístico (actual o propuesto):**  
+\- **Nombre artístico (actual o propuesto): Consolas Sexis**  
 
-\- **Nombre completo del artista (opcional):**  
+\- **Nombre completo del artista (opcional): wil castiblanco**  
 
-\- **Ciudad / país de origen:**  
+\- **Ciudad / país de origen: Bogotá, Colombia**  
 
 \- **Contacto (email, teléfono):**  
 
